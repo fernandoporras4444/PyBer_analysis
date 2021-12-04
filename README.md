@@ -7,12 +7,12 @@ The purpose of the analysis is use PyBer DataFrame information and create additi
 The analysis indicates the highs and lows based on the categories Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver.
   
   - Highest Values
-    - Urban: Total Rides 1625, Total Drivers 2405, and Total Fares $39,854.38
-    - Rural: Average Fare per Ride $34.62, and Average Fare per Driver $55.49
+    - Urban: `Total Rides` 1625, `Total Drivers` 2405, and `Total Fare`s $39,854.38
+    - Rural: `Average Fare per Ride` $34.62, and `Average Fare per Driver` $55.49
 
   - Lowest Values
-    - Urban: Average Fare per Ride $24.53, and Average Fare per Driver $16.57
-    - Rural: Total Rides 125, Total Drivers 78, and Total Fares $4,327.93
+    - Urban: `Average Fare per Ride` $24.53, and `Average Fare per Driver` $16.57
+    - Rural: `Total Rides` 125, `Total Drivers` 78, and` Total Fares` $4,327.93
 
 ![PyBer Totals](https://user-images.githubusercontent.com/92836648/144719197-15755198-2a2d-4a12-970c-7a8d01780173.png)
 
